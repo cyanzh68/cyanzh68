@@ -1,6 +1,10 @@
 Hi, 
-I’m @cyanzh68. I’m interested in learning Data Science and Machine Learning.
+
+I am interested in learning Data Science and Machine Learning. 
+
+
 I would like to apply the new skills to my work and collaborate with friends in this community.
+
 
 
 <!---
