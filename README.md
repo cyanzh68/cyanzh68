@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cyanzh68
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I would like to apply the new skills in my work.
-- 💞️ I’m looking to collaborate and meet new friends in this community.
+Hi, 
+I’m @cyanzh68. I’m interested in learning Data Science and Machine Learning.
+I would like to apply the new skills to my work and collaborate with friends in this community.
 
 
 <!---
